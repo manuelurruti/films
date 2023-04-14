@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
             <header>
-                <h1 className='title'> <a href="/" >Peliculas </a></h1>
+                <h1 className='title'> <a href="/" >Films </a></h1>
             </header>
             <MyRoutes />
         </div>
